@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina') ;
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina|Josefin+Sans');
 
   
 .header {text-align: center;
-  font-family: 'Baloo Bhaina', cursive;
+  font-family: 'Baloo Bhaina', 'JOsefin Sans', serif;
 }

@@ -54,3 +54,9 @@ div ul li{
  font-family: 'Indie Flower', cursive;
  color: rgb(42, 44, 48);
 }
+
+.main p {
+ font-family: 'Righteous', cursive;
+ text-align: left;
+ color: rgb(42, 44, 48);
+}

@@ -64,6 +64,13 @@ body {
  color: rgb(42, 44, 48);
 }
 
+.main img{
+ border-radius: 8px;
+ max-width: 100%;
+ height: auto;
+ 
+}
+
 .mypassion h1 {
  text-align: center;
  font-family: 'Indie Flower', cursive;

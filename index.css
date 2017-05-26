@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css?family=Russo+One');
 @import url('https://fonts.googleapis.com/css?family=Righteous');
 @import url('https://fonts.googleapis.com/css?family=Handlee');
-/* fonts */
 
 body {
   background-color: rgb(66, 197, 244);
@@ -14,6 +13,8 @@ div ul li{
   background-color: black;
   color: white;
 }
+
+/* backgrounds */
 
 .main {
   background-color: rgb(60, 111, 193);
@@ -26,8 +27,30 @@ div ul li{
   border-radius: 5px;
 }
 
+.mypassion {
+  background-color: rgb(60, 111, 193);
+  border-top-style: solid;
+  border-right-style: dashed;
+  border-bottom-style: solid;
+  border-left-style: dashed;
+  border-width: 2px, 2px, 2px, 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.goal{ 
+ background-color: rgb(60, 111, 193);
+  border-top-style: solid;
+  border-right-style: dashed;
+  border-bottom-style: solid;
+  border-left-style: dashed;
+  border-width: 2px, 2px, 2px, 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+
 .main h1 {
  text-align: center;
  font-family: 'Indie Flower', cursive;
- 
+ color: rgb(42, 44, 48);
 }

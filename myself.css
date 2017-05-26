@@ -28,20 +28,8 @@ body {
   margin: 2px;
 }
 
-.mypassion {
+.how {
   background-color: rgb(60, 111, 193);
-  border-top-style: solid;
-  border-right-style: dashed;
-  border-bottom-style: solid;
-  border-left-style: dashed;
-  border-width: 2px, 2px, 2px, 2px;
-  border-color: black;
-  border-radius: 5px;
-  margin: 2px;
-}
-
-.goal{ 
- background-color: rgb(60, 111, 193);
   border-top-style: solid;
   border-right-style: dashed;
   border-bottom-style: solid;
@@ -64,25 +52,13 @@ body {
  color: rgb(42, 44, 48);
 }
 
-.mypassion h1 {
+.how h1 {
  text-align: center;
  font-family: 'Indie Flower', cursive;
  color: rgb(42, 44, 48);
 }
 
-.mypassion p {
- font-family: 'Righteous', cursive;
- text-align: left;
- color: rgb(42, 44, 48);
-}
-
-.goal h1 {
- text-align: center;
- font-family: 'Indie Flower', cursive;
- color: rgb(42, 44, 48);
-}
-
-.goal p {
+.how p {
  font-family: 'Righteous', cursive;
  text-align: left;
  color: rgb(42, 44, 48);

@@ -8,12 +8,20 @@ body {
   background-color: rgb(66, 197, 244);
 }
 
+/* nav bar in general */
 .fixedbar {
-  display: inline;
   background-color: black;
-  color: white;
+  overflow: hidden;
 }
 
+/* different tabs */
+.topnav a{
+ float: left;
+ display: block;
+ color: #f2f2f2;
+ text-align: center;
+ 
+}
 /* backgrounds */
 
 .main {

@@ -11,6 +11,8 @@ body {
 
 div ul li{
   display: inline;
+  background-color: black;
+  color: white;
 }
 
 .main {

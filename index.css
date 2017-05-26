@@ -63,3 +63,27 @@ div ul li{
  text-align: left;
  color: rgb(42, 44, 48);
 }
+
+.mypassion h1 {
+ text-align: center;
+ font-family: 'Indie Flower', cursive;
+ color: rgb(42, 44, 48);
+}
+
+.mypassion p {
+ font-family: 'Righteous', cursive;
+ text-align: left;
+ color: rgb(42, 44, 48);
+}
+
+.goal h1 {
+ text-align: center;
+ font-family: 'Indie Flower', cursive;
+ color: rgb(42, 44, 48);
+}
+
+.goal p {
+ font-family: 'Righteous', cursive;
+ text-align: left;
+ color: rgb(42, 44, 48);
+}

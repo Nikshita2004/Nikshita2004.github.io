@@ -15,7 +15,17 @@ div ul li{
 
 .main {
   background-color: rgb(60, 111, 193);
-  font-family: 'Indie Flower', cursive;
-  
+  border-top-style: solid;
+  border-right-style: dashed;
+  border-bottom-style: solid;
+  border-left-style: dashed;
+  border-width: 2px, 2px, 2px, 2px;
+  border-color: black;
+  border-radius: 5px;
 }
 
+.main h1 {
+ text-align: center;
+ font-family: 'Indie Flower', cursive;
+ 
+}

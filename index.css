@@ -64,10 +64,15 @@ body {
  color: rgb(42, 44, 48);
 }
 
-.main img{
+img {
  border-radius: 8px;
- height: 200px;
+ height: 50px;
  width: 100px;
+ max-height: 200px;
+ min-height: 50px;
+ min-width: 75px;
+ max-width: 100px;
+ 
 }
 
 .mypassion h1 {

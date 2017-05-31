@@ -96,7 +96,7 @@ img {
  min-height: 50px;
  min-width: 75px;
  max-width: 100px;
- 
+ float: left;
 }
 
 .mypassion h1 {
